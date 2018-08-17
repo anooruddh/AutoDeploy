@@ -2,8 +2,6 @@
 <body>
 <center>
 </br>
-</br>
-</br>
  <img src="uncle.JPG" alt="Jenkins face"> 
  <img src="maven.jpg" alt="Maven face">
  <img src="git.png" alt="Smiley face">
